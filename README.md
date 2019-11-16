@@ -21,7 +21,7 @@ The annotation guidelines are also added (in Dutch).
 
 ## Acknowledgements
 
-This work was funded by a grant provided by the [Leiden Centre For Digital Humanities](https://www.universiteitleiden.nl/en/humanities/centre-for-digital-humanities)
+This work was funded by a grant provided by the [Leiden University Centre For Digital Humanities](https://www.universiteitleiden.nl/en/humanities/centre-for-digital-humanities)
 
 ## License
 
