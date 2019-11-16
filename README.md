@@ -19,4 +19,11 @@ The [BIO-general-IAA](BIO-general-IAA) folder contains BIO files containing the 
 
 The annotation guidelines are also added (in Dutch). 
 
+## Acknowledgements
+
+This work was funded by a grant provided by the [Leiden Centre For Digital Humanities](https://www.universiteitleiden.nl/en/humanities/centre-for-digital-humanities)
+
+## License
+
+All files in this repository is licensed under a GNU GPLv3 License.
 
