@@ -17,4 +17,6 @@ In the [BIO-per-file](BIO-per-file) you can find the BIO files segmented by sour
 
 The [BIO-general-IAA](BIO-general-IAA) folder contains BIO files containing the same ~100 sentences annotated by each of the annotators, and can be used to calcuate the Inter Annotator Agreement. 
 
+The annotation guidelines are also added (in Dutch). 
+
 
